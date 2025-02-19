@@ -39,3 +39,4 @@ This is explained in more detail in this [specification on hardfork activation i
 ## License
 
 MIT License, see [`LICENSE` file](./LICENSE).
+This project is a demonstration of blockchain technology and smart contract integration.
